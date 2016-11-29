@@ -32,3 +32,5 @@ function win(){
   }
     // return true;
 }
+
+// fonction win ne fonctionne pas : bug à trouver !!!
