@@ -3,7 +3,7 @@
   padding: 0;
 }
 body{
-  background-image: url("../images/tictactoe.jpg");
+  background-image: url("../image/tictactoe.jpg");
   background-size: 100% 674px;
 }
 #game{
